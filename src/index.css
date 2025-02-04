@@ -53,7 +53,7 @@
 }
 .complete:not(:first-child):before,
 .active:not(:first-child):before {
-  @apply bg-green-600;
+  @apply bg-green-500;
 }
 /* stapper desine end */
 
