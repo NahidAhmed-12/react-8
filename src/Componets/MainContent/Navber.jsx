@@ -10,8 +10,8 @@ export  const  desh = () => {
         <section>
            <NavDown>
                <div>
-                  <p className='text-gray-700'>back</p>
-                  <Title>Dashboard</Title>
+                  <p className='text-gray-700'> Back</p>
+                  <Title> Dashboard</Title>
                </div> 
 
                <div className='flex gap-5 flex-col md:flex-row items-center'>
