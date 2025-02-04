@@ -14,6 +14,7 @@ import Incident from './Componets/MainContent/Incident'
 import Incident2 from './Componets/MainContent/Incident2'
 import Incident3 from './Componets/MainContent/Incident3'
 
+
 function App() {
   return (
     <HashRouter>
@@ -26,6 +27,7 @@ function App() {
               <Route path='/stap' element={<Incident />} />
               <Route path='/next' element={<Incident2 />} />
               <Route path='/next3' element={<Incident3 />} />
+             
            </Route>
         </Routes>
     </HashRouter>
